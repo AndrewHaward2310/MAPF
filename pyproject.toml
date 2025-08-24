@@ -1,0 +1,88 @@
+[tool.poetry]
+name = "po-mapf-thesis"
+version = "0.1.0"
+description = "Partially observable / decentralized multi-agent pathfinding in Grid Environments using Reinforcement Learning"
+authors = ["Vlad Savinov <vlad.al.savinov@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "pathfinding"}]
+include = [{path = "tests"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+torch = "^1.12.1"
+pyyaml = "^6.0"
+matplotlib = "^3.6.2"
+ray = "^2.2.0"
+ruff = "^0.0.241"
+numpy = "1.23.1"
+pyproject-toml = "^0.0.10"
+opencv-python = "^4.6"
+flask = "^3.1.1"
+flask-cors = "^6.0.1"
+flask-sqlalchemy = "^3.1.1"
+flask-socketio = "^5.5.1"
+gunicorn = "^23.0.0"
+
+[tool.poetry.group.dev.dependencies]
+torch = "^1.12.1"
+black = "^22.10.0"
+fire = "^0.4.0"
+
+
+[tool.poetry.group.test.dependencies]
+pytest = "^7.2.0"
+
+[tool.pytest.ini_options]
+testpaths = [
+    "tests"
+]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.ruff]
+# Enable Pyflakes `E` and `F` codes by default.
+select = ["E", "F"]
+ignore = []
+
+# Allow autofix for all enabled rules (when `--fix`) is provided.
+unfixable = []
+
+# Exclude a variety of commonly ignored directories.
+exclude = [
+    ".bzr",
+    ".direnv",
+    ".eggs",
+    ".git",
+    ".hg",
+    ".mypy_cache",
+    ".nox",
+    ".pants.d",
+    ".ruff_cache",
+    ".svn",
+    ".tox",
+    ".venv",
+    "__pypackages__",
+    "_build",
+    "buck-out",
+    "build",
+    "dist",
+    "node_modules",
+    "venv",
+]
+per-file-ignores = {}
+
+# Same as Black.
+line-length = 88
+
+# Allow unused variables when underscore-prefixed.
+dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
+
+# Assume Python 3.10.
+target-version = "py310"
+
+[tool.ruff.mccabe]
+# Unlike Flake8, default to a complexity level of 10.
+max-complexity = 10
