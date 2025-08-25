@@ -1,0 +1,1020 @@
+{
+  "layers": [
+    {
+      "name": "obstacle",
+      "color": "#000000",
+      "visible": true
+    }
+  ],
+  "lines": [
+    {
+      "points": [
+        [
+          2560,
+          600
+        ],
+        [
+          200,
+          600
+        ]
+      ],
+      "id": 65,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          2560,
+          520
+        ],
+        [
+          2560,
+          640
+        ]
+      ],
+      "id": 66,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          2560,
+          640
+        ],
+        [
+          2400,
+          640
+        ]
+      ],
+      "id": 67,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          2400,
+          640
+        ],
+        [
+          2400,
+          600
+        ]
+      ],
+      "id": 68,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          2560,
+          520
+        ],
+        [
+          2480,
+          520
+        ]
+      ],
+      "id": 69,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          2480,
+          520
+        ],
+        [
+          2480,
+          600
+        ]
+      ],
+      "id": 70,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          2560,
+          560
+        ],
+        [
+          2440,
+          560
+        ]
+      ],
+      "id": 71,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          2440,
+          560
+        ],
+        [
+          2440,
+          600
+        ]
+      ],
+      "id": 72,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          2560,
+          480
+        ],
+        [
+          2560,
+          520
+        ]
+      ],
+      "id": 73,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          2560,
+          480
+        ],
+        [
+          200,
+          480
+        ]
+      ],
+      "id": 74,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          2320,
+          480
+        ],
+        [
+          2320,
+          600
+        ]
+      ],
+      "id": 75,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          2320,
+          80
+        ],
+        [
+          2320,
+          480
+        ]
+      ],
+      "id": 76,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          200,
+          80
+        ],
+        [
+          2320,
+          80
+        ]
+      ],
+      "id": 78,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          200,
+          80
+        ],
+        [
+          200,
+          480
+        ]
+      ],
+      "id": 79,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          400,
+          80
+        ],
+        [
+          400,
+          480
+        ]
+      ],
+      "id": 91,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          480,
+          80
+        ],
+        [
+          480,
+          480
+        ]
+      ],
+      "id": 92,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          680,
+          80
+        ],
+        [
+          680,
+          480
+        ]
+      ],
+      "id": 93,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          760,
+          80
+        ],
+        [
+          760,
+          480
+        ]
+      ],
+      "id": 94,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          1320,
+          80
+        ],
+        [
+          1320,
+          480
+        ]
+      ],
+      "id": 95,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          1400,
+          80
+        ],
+        [
+          1400,
+          480
+        ]
+      ],
+      "id": 96,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          1600,
+          80
+        ],
+        [
+          1600,
+          480
+        ]
+      ],
+      "id": 97,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          1680,
+          80
+        ],
+        [
+          1680,
+          480
+        ]
+      ],
+      "id": 98,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          2040,
+          80
+        ],
+        [
+          2040,
+          480
+        ]
+      ],
+      "id": 99,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          2120,
+          80
+        ],
+        [
+          2120,
+          480
+        ]
+      ],
+      "id": 100,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          1320,
+          280
+        ],
+        [
+          1400,
+          280
+        ]
+      ],
+      "id": 101,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          2320,
+          600
+        ],
+        [
+          2320,
+          1080
+        ]
+      ],
+      "id": 102,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          2320,
+          1080
+        ],
+        [
+          200,
+          1080
+        ]
+      ],
+      "id": 103,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          200,
+          480
+        ],
+        [
+          200,
+          1080
+        ]
+      ],
+      "id": 104,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          1320,
+          480
+        ],
+        [
+          1320,
+          600
+        ]
+      ],
+      "id": 105,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          1320,
+          600
+        ],
+        [
+          1320,
+          1080
+        ]
+      ],
+      "id": 106,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          1240,
+          600
+        ],
+        [
+          1240,
+          1080
+        ]
+      ],
+      "id": 107,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          1600,
+          600
+        ],
+        [
+          1600,
+          1080
+        ]
+      ],
+      "id": 108,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          1680,
+          600
+        ],
+        [
+          1680,
+          1080
+        ]
+      ],
+      "id": 109,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          1600,
+          840
+        ],
+        [
+          2320,
+          840
+        ]
+      ],
+      "id": 110,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          880,
+          600
+        ],
+        [
+          880,
+          1080
+        ]
+      ],
+      "id": 111,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    },
+    {
+      "points": [
+        [
+          960,
+          600
+        ],
+        [
+          960,
+          1080
+        ]
+      ],
+      "id": 112,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "color": "#000000"
+      }
+    }
+  ],
+  "nodes": [],
+  "obstacles": [
+    {
+      "rect": [
+        240,
+        120,
+        360,
+        440
+      ],
+      "id": 2,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "fill": "#000000"
+      }
+    },
+    {
+      "rect": [
+        520,
+        120,
+        640,
+        440
+      ],
+      "id": 4,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "fill": "#000000"
+      }
+    },
+    {
+      "rect": [
+        800,
+        120,
+        1280,
+        440
+      ],
+      "id": 6,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "fill": "#000000"
+      }
+    },
+    {
+      "rect": [
+        1440,
+        120,
+        1560,
+        440
+      ],
+      "id": 8,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "fill": "#000000"
+      }
+    },
+    {
+      "rect": [
+        1720,
+        120,
+        2000,
+        440
+      ],
+      "id": 10,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "fill": "#000000"
+      }
+    },
+    {
+      "rect": [
+        2160,
+        120,
+        2280,
+        440
+      ],
+      "id": 12,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "fill": "#000000"
+      }
+    },
+    {
+      "rect": [
+        240,
+        640,
+        840,
+        1040
+      ],
+      "id": 14,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "fill": "#000000"
+      }
+    },
+    {
+      "rect": [
+        1000,
+        640,
+        1200,
+        1040
+      ],
+      "id": 17,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "fill": "#000000"
+      }
+    },
+    {
+      "rect": [
+        1360,
+        640,
+        1560,
+        1040
+      ],
+      "id": 19,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "fill": "#000000"
+      }
+    },
+    {
+      "rect": [
+        1720,
+        640,
+        2280,
+        800
+      ],
+      "id": 21,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "fill": "#000000"
+      }
+    },
+    {
+      "rect": [
+        1720,
+        880,
+        2280,
+        1040
+      ],
+      "id": 22,
+      "layer": "obstacle",
+      "attributes": {},
+      "style": {
+        "fill": "#000000"
+      }
+    }
+  ],
+  "agents": {
+    "1": {
+      "start": [
+        2520,
+        520
+      ],
+      "goal": [
+        2320,
+        280
+      ]
+    },
+    "2": {
+      "start": [
+        2520,
+        560
+      ],
+      "goal": [
+        2240,
+        480
+      ]
+    },
+    "3": {
+      "start": [
+        2520,
+        600
+      ],
+      "goal": [
+        2120,
+        280
+      ]
+    },
+    "4": {
+      "start": [
+        2520,
+        640
+      ],
+      "goal": [
+        2040,
+        280
+      ]
+    },
+    "5": {
+      "goal": [
+        1880,
+        80
+      ]
+    },
+    "6": {
+      "goal": [
+        1680,
+        280
+      ]
+    },
+    "7": {
+      "goal": [
+        1880,
+        480
+      ]
+    },
+    "8": {
+      "goal": [
+        1600,
+        280
+      ]
+    },
+    "9": {
+      "goal": [
+        1480,
+        80
+      ]
+    },
+    "10": {
+      "goal": [
+        1480,
+        480
+      ]
+    },
+    "11": {
+      "goal": [
+        1320,
+        320
+      ]
+    },
+    "12": {
+      "goal": [
+        1040,
+        480
+      ]
+    },
+    "13": {
+      "goal": [
+        760,
+        280
+      ]
+    },
+    "14": {
+      "goal": [
+        680,
+        280
+      ]
+    },
+    "15": {
+      "goal": [
+        480,
+        280
+      ]
+    },
+    "16": {
+      "goal": [
+        400,
+        240
+      ]
+    },
+    "17": {
+      "goal": [
+        200,
+        280
+      ]
+    },
+    "18": {
+      "goal": [
+        200,
+        880
+      ]
+    },
+    "19": {
+      "goal": [
+        520,
+        600
+      ]
+    },
+    "20": {
+      "goal": [
+        880,
+        880
+      ]
+    },
+    "21": {
+      "goal": [
+        960,
+        880
+      ]
+    },
+    "22": {
+      "goal": [
+        1120,
+        600
+      ]
+    },
+    "23": {
+      "goal": [
+        1240,
+        880
+      ]
+    },
+    "24": {
+      "goal": [
+        1320,
+        880
+      ]
+    },
+    "25": {
+      "goal": [
+        1480,
+        600
+      ]
+    },
+    "26": {
+      "goal": [
+        1480,
+        1080
+      ]
+    },
+    "27": {
+      "goal": [
+        2000,
+        600
+      ]
+    },
+    "28": {
+      "goal": [
+        2000,
+        840
+      ]
+    },
+    "29": {
+      "goal": [
+        2000,
+        1080
+      ]
+    },
+    "30": {
+      "goal": [
+        2320,
+        960
+      ]
+    },
+    "31": {
+      "goal": [
+        2320,
+        720
+      ]
+    }
+  }
+}

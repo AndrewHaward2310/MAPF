@@ -1,0 +1,10 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "description": "Allowed metadata attributes for MAPF elements",
+  "type": "object",
+  "properties": {
+    "line": {"type": "object", "additionalProperties": {"type": "string"}},
+    "node": {"type": "object", "additionalProperties": {"type": "string"}},
+    "obstacle": {"type": "object", "additionalProperties": {"type": "string"}}
+  }
+}
